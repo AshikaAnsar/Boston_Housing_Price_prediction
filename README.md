@@ -5,10 +5,20 @@ housing prices using various regression models . The goal is to evaluate
 the relationship between different features and housing prices , and to
 identify the best model for predicting prices .
 ## Dataset
-The Boston Housing dataset contains 13 features and the target variable ,
-MEDV ( median value of homes ) . Other features are CRIM ( crime rate ) ,
-RM ( average number of rooms ) , and LSTAT ( percentage of lower - status
-population ), ZN, INDUS, CHAS, NOX, AGE, DIS, RAD, TAX, and PTRATIO 
+The Boston Housing dataset contains 13 features and the target variable MEDV ( median value of homes ) . 
+Other features are: 
+CRIM ( crime rate )
+RM ( average number of rooms )
+LSTAT ( percentage of lower - status population )
+ZN( Proportion of residential land zoned for lots larger than 25,000 square feet.)
+INDUS( Proportion of non-retail business acres per town.)
+CHAS (Charles River dummy variable (1 if tract bounds river; 0 otherwise).)
+NOX( Nitric oxide concentration (parts per 10 million).)
+AGE( Proportion of owner-occupied units built before 1940.)
+DIS( Weighted distances to fve Boston employment centers.)
+RAD(Index of accessibility to radial highways)
+TAX( Full-value property tax rate per 10, 000)
+PTRATIO( Pupil-teacher ratio by town)
 
 ## Steps
 1. Exploratory Data Analysis ( EDA )
@@ -29,6 +39,7 @@ population ), ZN, INDUS, CHAS, NOX, AGE, DIS, RAD, TAX, and PTRATIO
 * Figure 1: Scatter plot showing the relationship between RM ( average
 number of rooms ) and MEDV ( housing prices ) .*
 
+![Alt Text](relative/path/to/image.png)
 
 
 ## Reflection and Insights
