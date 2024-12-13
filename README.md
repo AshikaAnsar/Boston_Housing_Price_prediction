@@ -48,4 +48,4 @@ ability to handle complex relationships between features. One key
 finding was the strong positive correlation between RM and MEDV, while
 LSTAT had a negative correlation with housing prices.
 ## Next Steps
-- 
+Future work could involve experimenting with more advanced machine learning algorithms, such as neural networks, to see if they outperform traditional regression models. Additionally, we could explore the inclusion of more diverse features such as economic indicators or regional data to improve the prediction accuracy.
